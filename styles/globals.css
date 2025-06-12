@@ -43,10 +43,10 @@ a {
   border: none;
 }
 
-.title-decor {
+.title__decor {
   color: var(--title-color);
   background-color: var(--accent-color);
-  font-family: var(--main-font-family), sans-serif;
+  font-family: 'IBM Plex mono', sans-serif;
   font-size: var(--small-font-size);
 }
 
