@@ -46,7 +46,7 @@ a {
 .title__decor {
   color: var(--title-color);
   background-color: var(--accent-color);
-  font-family: 'IBM Plex mono', sans-serif;
+  font-family: 'IBM Plex mono', monospace, sans-serif;
   font-size: 18px;
 }
 
